@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oybek Nurmamatov</h1>
+<h1 align="center">Hi 😊, I'm Oybek Nurmamatov</h1>
 <h3 align="center">I am a Python Backend developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rozievich&label=Profile%20views&color=0e75b6&style=flat" alt="rozievich" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django, ResetAPI**
 
-- 👯 I’m looking to collaborate on [Cyrillic to Latin](https://t.me/kirlat_bot)
+- 🤝 I’m looking to collaborate on [Cyrillic to Latin](https://t.me/kirlat_bot)
 
 - 💬 Ask me about **Python, Python Telegram bot, Docker, Django**
 
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rozievich&show_icons=true&locale=en" alt="rozievich" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rozievich&" alt="rozievich" /></p>
-
