@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rozievich&label=Profile%20views&color=0e75b6&style=flat" alt="rozievich" /> </p>
 
-- 🔭 I’m currently working on [Universal Bot](https://t.me/collectJob_bot)
+- 🔭 I’m currently working on [BestFolio]([https://rozievich.pythonanywhere.com/])
 
-- 🌱 I’m currently learning **Django, ResetAPI**
+- 🌱 I’m currently learning **FastAPI, ResetAPI**
 
-- 🤝 I’m looking to collaborate on [Cyrillic to Latin](https://t.me/kirlat_bot)
-
-- 💬 Ask me about **Python, Python Telegram bot, Docker, Django**
+- 💬 Ask me about **Python, Aiogram, Docker, Django, DRF, FastAPI, Redis, Celery, Postgresql**
 
 - 📫 How to reach me **oybekrozievich@gmail.com**
 
