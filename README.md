@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rozievich&label=Profile%20views&color=0e75b6&style=flat" alt="rozievich" /> </p>
 
-- 🔭 I’m currently working on [BestFolio](https://rozievich.pythonanywhere.com/)
+- 🔭 I’m currently working on [**BestFolio**](https://rozievich.pythonanywhere.com/)
 
 - 🌱 I’m currently learning **FastAPI, DRF**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **oybekrozievich@gmail.com**
 
-- 📄 Know about my experiences by this [**Resume**](https://github.com/GaniyevUz/GaniyevUz/blob/main/JakhongirGanievResume.pdf)
+- 📄 Know about my experiences by this 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
