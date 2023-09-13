@@ -1,5 +1,4 @@
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact"></p>
 <h1 align="center">Hi 😊, I'm Oybek Nurmamatov</h1>
 <h3 align="center">I am a Python Backend developer from Uzbekistan</h3>
 
