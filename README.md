@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rozievich&label=Profile%20views&color=0e75b6&style=flat" alt="rozievich" /> </p>
 
-- 🔭 I’m currently working on [BestFolio] ([https://rozievich.pythonanywhere.com/])
+- 🔭 I’m currently working on ([BestFolio][https://rozievich.pythonanywhere.com/])
 
 - 🌱 I’m currently learning **FastAPI, ResetAPI**
 
