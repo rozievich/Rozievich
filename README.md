@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [BestFolio](https://rozievich.pythonanywhere.com/)
 
-- 🌱 I’m currently learning **FastAPI, ResetAPI**
+- 🌱 I’m currently learning **FastAPI, DRF**
 
 - 💬 Ask me about **Python, Aiogram, Docker, Django, DRF, FastAPI, Redis, Celery, Postgresql**
 
