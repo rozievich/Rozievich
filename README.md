@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **oybekrozievich@gmail.com**
 
+- 📄 Know about my experiences by this [**Resume**](https://github.com/GaniyevUz/GaniyevUz/blob/main/JakhongirGanievResume.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oybek-nurmamatov-036249263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oybek-nurmamatov-036249263" height="30" width="40" /></a>
