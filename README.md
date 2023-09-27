@@ -33,7 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rozievich&show_icons=true&locale=en&theme=radical" alt="rozievich" /></p>
 
 # 📊 LeetCode Stats:
-<p align="center"><img src="https://leetcard.jacoblin.cool/rozievich?theme=nord&font=Allerta&ext=heatmap"></p>
+<p align="center"><img src="https://leetcard.jacoblin.cool/rozievich&font=Allerta&ext=heatmap?theme=radical"></p>
 
 ### 😂 Random Dev Meme
 <p align="center"><img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></p>
