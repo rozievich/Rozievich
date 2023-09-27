@@ -31,7 +31,23 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rozievich&show_icons=true&locale=en" alt="rozievich" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rozievich&" alt="rozievich" /></p>
+# 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rozievich&theme=radical">
+<br/>
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rozievich&theme=tokyonight">
+<br/>
+ 
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rozievich&theme=tokyonight&hide_border=true" alt="Rozievich">
+
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=Rozievich&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+
+<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rozievich&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+</p>
+<br/>
+
+# 📊 LeetCode Stats:
+<p align="center"><img src="https://leetcard.jacoblin.cool/rozievich?theme=nord&font=Allerta&ext=heatmap"></p>
 
 ### 😂 Random Dev Meme
 <p align="center"><img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></p>
