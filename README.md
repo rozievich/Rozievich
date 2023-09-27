@@ -27,24 +27,10 @@
 
 [![Snake](https://profile-readme-generator.com/assets/snake.svg)]
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rozievich&show_icons=true&locale=en&layout=compact" alt="rozievich" /></p>
+# 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rozievich&show_icons=true&locale=en&layout=compact&theme=radical" alt="rozievich" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rozievich&show_icons=true&locale=en" alt="rozievich" /></p>
-
-# 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rozievich&theme=radical">
-<br/>
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rozievich&theme=tokyonight">
-<br/>
- 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rozievich&theme=tokyonight&hide_border=true" alt="Rozievich">
-
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=Rozievich&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-
-<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rozievich&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-</p>
-<br/>
 
 # 📊 LeetCode Stats:
 <p align="center"><img src="https://leetcard.jacoblin.cool/rozievich?theme=nord&font=Allerta&ext=heatmap"></p>
