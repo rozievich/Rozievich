@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oybek-nurmamatov-036249263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oybek-nurmamatov-036249263" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rozievich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oybek-nurmamatov-036249263" height="30" width="40" /></a>
 <a href="https://instagram.com/oybek_rozievich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oybek_rozievich" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/oybek_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oybek_2003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Rozievich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oybek_2003" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
