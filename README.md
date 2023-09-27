@@ -30,10 +30,10 @@
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rozievich&show_icons=true&locale=en&layout=compact&theme=radical" alt="rozievich" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rozievich&show_icons=true&locale=en" alt="rozievich" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rozievich&show_icons=true&locale=en&theme=radical" alt="rozievich" /></p>
 
 # 📊 LeetCode Stats:
-<p align="center"><img src="https://leetcard.jacoblin.cool/rozievich?theme=nord&font=Allerta&ext=heatmap"></p>
+<p align="center"><img src="https://leetcard.jacoblin.cool/rozievich?theme=radical&font=Allerta&ext=heatmap"></p>
 
 ### 😂 Random Dev Meme
 <p align="center"><img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></p>
