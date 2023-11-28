@@ -28,9 +28,9 @@
 [![Snake](https://profile-readme-generator.com/assets/snake.svg)]
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rozievich&show_icons=true&locale=en&layout=compact&theme=radical" alt="rozievich" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rozievich&show_icons=true&locale=en&layout=compact&theme=radical" alt="rozievich" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rozievich&show_icons=true&locale=en&theme=radical" alt="rozievich" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rozievich&show_icons=true&locale=en&theme=radical" alt="rozievich" /></p>
 
 # 📊 LeetCode Stats:
 <p align="center"><img src="https://leetcard.jacoblin.cool/rozievich?theme=nord&font=Allerta&ext=heatmap"></p>
