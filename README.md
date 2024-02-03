@@ -1,6 +1,6 @@
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact"></p>
-<h1 align="center">Hi 😊, I'm Oybek Nurmamatov</h1>
-<h3 align="center">I am a Python Backend developer from Uzbekistan</h3>
+<h1 align="center">Hi 👋, I'm Oybek Nurmamatov</h1>
+<h3 align="center">I am a Python Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rozievich&label=Profile%20views&color=0e75b6&style=flat" alt="rozievich" /> </p>
 
