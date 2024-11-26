@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/Celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Aiogram-%230C99E5.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-%23CB2132.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
 </p>
 
 ---
