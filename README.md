@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Oybek Nurmamatov</h1>
-<h3 align="center">Python Backend Developer | FastAPI & Django Enthusiast</h3>
+### <h1 align="center">👋 Hey there, I'm <span style="color:#ff9800;">Oybek Nurmamatov</span></h1>
+<h3 align="center">🚀 Python Backend Developer | FastAPI & Django Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rozievich&label=Profile%20views&color=0e75b6&style=flat-square" alt="Rozievich" />
+  <img src="https://komarev.com/ghpvc/?username=Rozievich&label=Profile%20views&color=ff9800&style=flat-square" alt="Rozievich" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me:
-- 🔭 **Working on:** [Sinaea](https://sinaea.rozievich.uz/)
-- 🌱 **Learning:** FastAPI and Advanced Backend Architectures  
-- 💬 **Ask Me About:** Python, Django, DRF, Aiogram, Docker, Redis, PostgreSQL  
-- 🎯 **Goal:** Becoming a Cloud-Native Backend Developer  
-- 📫 **Reach Me At:** oybekrozievich@gmail.com  
+🔭 **Currently working on:** [Sinaea](https://sinaea.rozievich.uz/)  
+🌱 **Exploring:** Advanced Backend Architectures & Microservices  
+💬 **Ask Me About:** Python, Django, FastAPI, Docker, Redis, PostgreSQL  
+🎯 **Aspiring to become:** Cloud-Native Backend Engineer  
+📫 **Contact Me:** oybekrozievich@gmail.com  
 
 ---
 
@@ -33,27 +33,15 @@
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/DRF-%23FF1709.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/FastAPI-%23005571.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/GIT-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Aiogram-%230C99E5.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-%23CB2132.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,redis,git,linux,postman,celery,sqlite" />
 </p>
 
 ---
 
 ### ⚡ Fun Facts:
-- 🧩 I enjoy solving algorithmic problems on [LeetCode](https://leetcode.com/Rozievich).  
-- 🌌 I’m a big fan of astronomy and exploring the cosmos.  
-- 🎨 I create minimalist UI designs when not coding.  
+- 🎯 I love solving **algorithmic puzzles** on [LeetCode](https://leetcode.com/Rozievich).
+- 🌌 Passionate about **space exploration** & **cosmos** mysteries.
+- 🎨 Occasionally design **minimalist UI** when not coding.
 
 ---
 
@@ -74,20 +62,23 @@
 
 ### 🐍 Contribution Snake:
 <p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-### 🔗 Check Out My Projects:
-- 💼 [BestFolio](https://rozievich.pythonanywhere.com/): A modern portfolio manager with sleek design.
-- 🚀 **Coming Soon**: A task management web app with budget tracking.
+### 🔗 Featured Projects:
+- 💼 [BestFolio](https://rozievich.pythonanywhere.com/) → **Sleek Portfolio Manager**.
+- 🚀 **Coming Soon** → **Task Management & Budget Tracking App**.
 
 ---
 
-### ✨ Extra Features:
-- Added **fun facts** for a personal touch.  
-- Made sections **centered and interactive** with shield-style badges.  
-- Included **future project goals** for a professional outlook.
+### 🚀 Extra Features:
+✔ **Personalized touch** with **vibrant badges** & **modern design**.
+✔ **Centralized layout** for a professional feel.
+✔ **Future projects section** to showcase upcoming work.
+✔ **GitHub & LeetCode stats** for progress tracking.
 
-Let me know if you’d like any more enhancements!
+---
+
+🎉 _Let's build amazing things together!_ 💡
