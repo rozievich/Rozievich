@@ -33,7 +33,7 @@
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,redis,git,linux,postman,sqlite,windows,aiogram,html,drf" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,redis,git,linux,postman,sqlite,windows,telegram-bot,html,django-rest-framework" />
 </p>
 
 ---
