@@ -55,7 +55,7 @@
 
 ### 📈 LeetCode Stats:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Rozievich?theme=unicorn&font=Allerta&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Rozievich?theme=radical&font=Allerta&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
