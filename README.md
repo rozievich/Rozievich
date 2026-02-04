@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me:
-🔭 **Currently working on:** [Master English Academy](https://chustmaster.uz/)  
+🔭 **Currently working on:** [UzbekHub](https://uzbekhub.uz/)  
 🌱 **Exploring:** Advanced Backend Architectures & Microservices  
 💬 **Ask Me About:** Python, Django, Django Rest Framework, FastAPI, Docker, Redis, PostgreSQL, Aiogram, Telethon  
 🎯 **Aspiring to become:** Cloud-Native Backend Engineer  
