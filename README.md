@@ -45,14 +45,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rozievich&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rozievich&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 📈 LeetCode Stats:
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Rozievich?theme=radical&font=Allerta&ext=heatmap" alt="LeetCode Stats" />
